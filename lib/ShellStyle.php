@@ -8,8 +8,6 @@
  * file that was distributed with this source code.
  */
 
-namespace Gobwas\ShellStyle;
-
 /**
  * ShellStyle prepares ANSI-encoded colored Unix/Linux output
  *

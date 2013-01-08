@@ -1,0 +1,24 @@
+{
+    "name": "gobwas/shellstyle",
+    "type": "library",
+    "description": "ShellStyle is a simple php class that allows you to get wrapped Unix/Linux colored output with ANSI escape codes",
+    "keywords": ["color", "output", "echo"],
+    "homepage": "http://github.com/gobwas/shellstyle",
+    "license": "GPL3",
+    "authors": [
+        {
+            "name": "Sergey Kamardin",
+            "email": "gobwas@gmail.com",
+            "homepage": "http://gobwas.com",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.0"
+    },
+    "autoload": {
+        "psr-0": {
+            "ShellStyle": "lib/"
+        }
+    }
+}
